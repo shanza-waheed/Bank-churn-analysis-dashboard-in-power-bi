@@ -2,7 +2,7 @@
 
 ## 🖼️ Dashboard Preview
 
-*![Bank Churn Dashboard](bnk churn analysis dashboard.png)*
+![Bank Churn Dashboard](bnk churn analysis dashboard.png)
 
 ## 📌 Project Overview
 This project presents a comprehensive **Customer Churn Analysis** for a retail bank. The goal is to identify the primary drivers of customer attrition and provide data-driven insights to help the retention team reduce churn and improve customer loyalty.
